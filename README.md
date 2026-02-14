@@ -54,7 +54,9 @@ Similarity Engine	Returns safe, curated dataset responses
 Fine-Tuned Local SLM	Generates fallback conversational outputs
 RAG Retrieval Layer	Grounds responses in financial policy context
 Guardrails Layer	Prevents unsafe financial advice & hallucinations
+
 💻 Running the Project in Google Colab
+
 Step 1: Mount Google Drive
 from google.colab import drive
 drive.mount('/content/drive')
