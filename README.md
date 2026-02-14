@@ -91,6 +91,13 @@ Dataset-first reliability
 Cost-efficient model strategy
 
 Enterprise-ready modular design
+© 2026 Pavithra Veerapathiran
+
+This project was developed independently as part of an AI/ML Internship task.
+Unauthorized commercial usage is prohibited.
+
+GitHub: https://github.com/paviakki2001
+LinkedIn: https://linkedin.com/in/pavithra-veerapathiran-949403274
 
 Designed with scalability in mind
 
